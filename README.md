@@ -36,7 +36,7 @@ Link to the repositories of my projects developed throughout my career as a deve
 
 
 #### :paperclip: Fabiano Basso Antonio. ####
-I also work as a **FULL STACK DEVELOPER** freelancer, if you have a project, this is the right time to get it off the ground, we can talk, and I'll present the best solution for you.
+I also work as a **FULL STACK DEVELOPER**, if you have a project, this is the right time to get it off the ground, we can talk, and I'll present the best solution for you.
 
 #### :telephone_receiver: Meus Contatos: ####
 **Portfólio:** https://fabianobasso.github.io/
